@@ -15,7 +15,8 @@ https://sleepy-anchorage-84048.herokuapp.com/
 
 # To Run:
 1. Install [mongodb](https://www.mongodb.com/)
-2. Create a cloudinary account to get an API key and secret code
+3. Create a cloudinary account to get a name, an API key and secret code
+4. Create a Mapbox account to get your token
 
 ```
 cd my-camps
