@@ -20,7 +20,6 @@ https://sleepy-anchorage-84048.herokuapp.com/
 
 In your terminal on the root folder of the project, run:
 ```
-cd my-camps
 npm install
 ```
 
@@ -34,7 +33,7 @@ MAPBOX_TOKEN=<token>
 DB_URL=<url>
 ```
 
-Run ```node app.js``` in the terminal
+Run ```npm start``` in the terminal
 
 Open your browser and head to localhost:3000
 
